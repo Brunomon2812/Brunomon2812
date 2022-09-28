@@ -9,6 +9,8 @@ I'm a Full Stack Developer from New York.
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunomon2812&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+ ## 🛠️ Languages and Tools
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Brunomon2812-Js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">
   <img align="center" alt="Brunomon2812-Ts" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg">
