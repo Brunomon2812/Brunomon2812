@@ -1,6 +1,6 @@
 # Hi, I'm Bruno! 👋
 
-I'm a Full Stack Developer from New York.
+I'm a Full Stack Developer.
 
 <br>
 <div align="center">
