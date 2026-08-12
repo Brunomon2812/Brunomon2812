@@ -1,8 +1,8 @@
 # Hi, I'm Bruno 👋
 
-Full Stack Developer working across TypeScript/Node.js on the back end and React on the front
-end. Most of what's here is project work: REST APIs with layered architecture and JWT auth, and
-React clients built mobile-first against them.
+A tour of what's here. The back-end projects are layered with dependency injection, which keeps
+their business rules testable without a database; the front-end projects are built mobile-first
+against live APIs.
 
 ## Featured projects
 
